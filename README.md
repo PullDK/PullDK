@@ -9,7 +9,7 @@
  </div>
  <h1>⚠️ CeresMC</h1> 
 
- 📌 CeresMC is a bedrock Minecraft server created by me together with [RazzyGP](https://github.com/RazzyGP)
+ 📌 CeresMC is a bedrock Minecraft server created by me together [RazzyGP](https://github.com/RazzyGP)
  
  ----------------------------------------- 
  ###    ‼️ Server
