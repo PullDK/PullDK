@@ -8,10 +8,6 @@
  
  </div>
  
- 
- 
- <h1>My stats</h1>  
- 
 ![](https://github-readme-stats.vercel.app/api?username=PullDK&count_private=true&show_icons=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PullDK&layout=compact)
