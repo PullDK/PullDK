@@ -7,6 +7,11 @@
 <img src="CeresMC.png" width="200px">
  
  </div>
+ <h1>CeresMC</h1> 
+ CeresMC is a bedrock Minecraft server, created by me together with [RazzyGP](https://github.com/RazzyGP) dev
+
+ 
+ <h1>My stats</h1> 
  
 ![](https://github-readme-stats.vercel.app/api?username=PullDK&count_private=true&show_icons=true)
 
