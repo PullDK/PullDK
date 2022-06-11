@@ -8,7 +8,7 @@
  
  </div>
  <h1>CeresMC</h1> 
- CeresMC is a bedrock Minecraft server, created by me together with [RazzyGP](https://github.com/RazzyGP) dev
+ CeresMC is a bedrock Minecraft server, created by me together with [RazzyGP] dev
 
  
  <h1>My stats</h1> 
