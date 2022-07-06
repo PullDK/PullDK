@@ -16,7 +16,7 @@
  ### 🟢 IP: play.ceresmc.xyz
  ### 🟢 PORT: 25569
  -----------------------------------------
-# ⚠️ Social
+# ⚠️ Social CeresMC
 - 🔰 [Store](https://ceresmc.minecart.com.br)
 - 🔰 [Discord](https://discord.com/invite/V7XRaFCREB)
 - 🔰 [Instagram](https://www.instagram.com/ceresmc/)
