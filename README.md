@@ -13,8 +13,8 @@
  
  ----------------------------------------- 
  ###    ‼️ Server
- ### 🟢 IP: play.ceresmc.xyz
- ### 🟢 PORT: 25569
+ ### 🟢 IP: ceresmc.com.br
+ ### 🟢 PORT: 19132
  -----------------------------------------
 # ⚠️ Social CeresMC
 - 🔰 [Store](https://ceresmc.minecart.com.br)
