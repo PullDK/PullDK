@@ -27,8 +27,8 @@ hello, my name is PullDK, I'm starting to program and I only know the basics of 
  
  <h1>⚠️ My stats</h1> 
  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PullDK&layout=compact)
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PullDK&layout=compact=true&theme=dracula&title_color=fff" alt="guinhx" /></p> 
 
-![](https://github-readme-stats.vercel.app/api?username=PullDK&count_private=true&show_icons=true)
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=PullDK&show_icons=true&theme=dracula&title_color=fff" alt="guinhx" /></p> 
 
 
