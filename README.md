@@ -6,7 +6,7 @@
  My first contact with programming was on a Minecraft Bedrock server, where I learned programming logic using PHP, the language I used to create the server. I didn't learn much due to lack of time and a bit of laziness, haha, but I'm focusing on Flutter because I enjoyed creating mobile apps. I already have several projects in mind and I want to put them all into practice. For now, that's my story.
 </div>
 
-<h1>⚠️STUDYING</h1> 
+<h1>⚠️STUDYING</h1>  
 
 
 # ⚠️ Social 
